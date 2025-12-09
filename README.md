@@ -81,7 +81,7 @@ I love building scalable applications and learning new technologies.
 
 <h3>📫 Connect with Me</h3>
 <p>
-<a href="https://www.google.com/search?q=https://linkedin.com/in/dolev-shmueli" target="_blank">
+<a href="https://www.linkedin.com/in/dolev-shmueli/" target="_blank">
 <img src="https://www.google.com/search?q=https://img.shields.io/badge/LinkedIn-0077B5%3Fstyle%3Dfor-the-badge%26logo%3Dlinkedin%26logoColor%3Dwhite" alt="LinkedIn"/>
 </a>
 <a href="mailto:dolevs1890@gmail.com">
