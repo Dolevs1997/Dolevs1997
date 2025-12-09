@@ -9,7 +9,7 @@
 <h3>👨‍💻 About Me</h3>
 
 <p align="center">
-Passionate Full Stack Developer specializing in MERN Stack.
+Passionate Full Stack Developer specializing in MERN Stack & Mobile Development.
 
 
 
@@ -61,7 +61,7 @@ I love building scalable applications and learning new technologies.
 
 <div align="center">
 <!-- נתונים כלליים -->
-<img height="180em" src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3DDolevs1997%26show_icons%3Dtrue%26theme%3Dtokyonight%26include_all_commits%3Dtrue%26count_private%3Dtrue"/>
+<img height="180em" src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3DYOUR_USERNAME%26show_icons%3Dtrue%26theme%3Dtokyonight%26include_all_commits%3Dtrue%26count_private%3Dtrue"/>
 
 <!-- שפות מובילות -->
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dolevs1997&layout=compact&theme=tokyonight"/>
@@ -71,7 +71,7 @@ I love building scalable applications and learning new technologies.
 
 <!-- גרף רצף תרומות (Streak) -->
 
-<img src="https://www.google.com/search?q=https://github-readme-streak-stats.herokuapp.com/%3Fuser%3Dolevs1997%26theme%3Dtokyonight" alt="GitHub Streak" />
+<img src="https://www.google.com/search?q=https://github-readme-streak-stats.herokuapp.com/%3Fuser%3DDolevs1997%26theme%3Dtokyonight" alt="GitHub Streak" />
 
 
 
@@ -84,7 +84,7 @@ I love building scalable applications and learning new technologies.
 <a href="https://www.google.com/search?q=https://linkedin.com/in/dolev-shmueli" target="_blank">
 <img src="https://www.google.com/search?q=https://img.shields.io/badge/LinkedIn-0077B5%3Fstyle%3Dfor-the-badge%26logo%3Dlinkedin%26logoColor%3Dwhite" alt="LinkedIn"/>
 </a>
-<a href="mailto:dolevs1890@gmail.com">
+<a href="mailto:dolevs1997@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
 </p>
