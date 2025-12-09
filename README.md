@@ -64,14 +64,14 @@ I love building scalable applications and learning new technologies.
 <img height="180em" src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3DYOUR_USERNAME%26show_icons%3Dtrue%26theme%3Dtokyonight%26include_all_commits%3Dtrue%26count_private%3Dtrue"/>
 
 <!-- שפות מובילות -->
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dolevs1997&layout=compact&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
 
 
 </div>
 
 <!-- גרף רצף תרומות (Streak) -->
 
-<img src="https://www.google.com/search?q=https://github-readme-streak-stats.herokuapp.com/%3Fuser%3DDolevs1997%26theme%3Dtokyonight" alt="GitHub Streak" />
+<img src="https://www.google.com/search?q=https://github-readme-streak-stats.herokuapp.com/%3Fuser%3DYOUR_USERNAME%26theme%3Dtokyonight" alt="GitHub Streak" />
 
 
 
@@ -81,10 +81,10 @@ I love building scalable applications and learning new technologies.
 
 <h3>📫 Connect with Me</h3>
 <p>
-<a href="https://www.google.com/search?q=https://linkedin.com/in/dolev-shmueli" target="_blank">
+<a href="https://www.google.com/search?q=https://linkedin.com/in/YOUR_LINKEDIN_USERNAME" target="_blank">
 <img src="https://www.google.com/search?q=https://img.shields.io/badge/LinkedIn-0077B5%3Fstyle%3Dfor-the-badge%26logo%3Dlinkedin%26logoColor%3Dwhite" alt="LinkedIn"/>
 </a>
-<a href="mailto:dolevs1997@gmail.com">
+<a href="mailto:YOUR_EMAIL@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
 </p>
