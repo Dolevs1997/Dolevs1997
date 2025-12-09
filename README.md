@@ -38,8 +38,8 @@ I love building scalable applications and learning new technologies.
 
 ### 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dolevs1997&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dolevs1997&layout=compact&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dolevs1997&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dolevs1997&show_icons=true&theme=tokyonight&layout=compact)
 
 <br/>
 
