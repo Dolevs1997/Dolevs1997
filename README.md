@@ -71,7 +71,7 @@ I love building scalable applications and learning new technologies.
 
 <!-- גרף רצף תרומות (Streak) -->
 
-<img src="https://www.google.com/search?q=https://github-readme-streak-stats.herokuapp.com/%3Fuser%3DDolevs1997%26theme%3Dtokyonight" alt="GitHub Streak" />
+<img src="https://www.google.com/search?q=https://github-readme-streak-stats.herokuapp.com/%3Fuser%3Dolevs1997%26theme%3Dtokyonight" alt="GitHub Streak" />
 
 
 
